@@ -1,9 +1,9 @@
-import scraperwiki
+#import scraperwiki
 
 from urllib2 import urlparse
 
 
-import scraperwiki
+#import scraperwiki
 import lxml.html
 import datetime
 
